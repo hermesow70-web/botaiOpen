@@ -1,0 +1,4 @@
+aiogram==3.0.0
+openai==0.28.0
+aiohttp
+httpx==0.23.0
